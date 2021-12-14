@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96B637EC272D1A4D00CE7935 /* Post1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B637EB272D1A4D00CE7935 /* Post1.swift */; };
+		96B637EF272D23BD00CE7935 /* Hotel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B637EE272D23BD00CE7935 /* Hotel.swift */; };
+		96B637F1272D23E800CE7935 /* Places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B637F0272D23E800CE7935 /* Places.swift */; };
+		96B637F3272D240100CE7935 /* Restoran.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B637F2272D240100CE7935 /* Restoran.swift */; };
 		96D51280272BCE6600FF4E96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D5127F272BCE6600FF4E96 /* AppDelegate.swift */; };
 		96D51282272BCE6600FF4E96 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D51281272BCE6600FF4E96 /* SceneDelegate.swift */; };
 		96D51284272BCE6600FF4E96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D51283272BCE6600FF4E96 /* ContentView.swift */; };
@@ -16,6 +20,9 @@
 		96D5128F272BCE6B00FF4E96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96D5128D272BCE6B00FF4E96 /* LaunchScreen.storyboard */; };
 		96D5129A272BCE6C00FF4E96 /* Paris_TripTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D51299272BCE6C00FF4E96 /* Paris_TripTests.swift */; };
 		96D512A5272BCE6C00FF4E96 /* Paris_TripUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D512A4272BCE6C00FF4E96 /* Paris_TripUITests.swift */; };
+		96D512B5272BD11100FF4E96 /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D512B4272BD11100FF4E96 /* Frame.swift */; };
+		96D512C3272BF86500FF4E96 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96D512C5272BF86500FF4E96 /* Localizable.strings */; };
+		96D512CB272BF9CE00FF4E96 /* LocalizableModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D512CA272BF9CE00FF4E96 /* LocalizableModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		96B637EB272D1A4D00CE7935 /* Post1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post1.swift; sourceTree = "<group>"; };
+		96B637EE272D23BD00CE7935 /* Hotel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hotel.swift; sourceTree = "<group>"; };
+		96B637F0272D23E800CE7935 /* Places.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Places.swift; sourceTree = "<group>"; };
+		96B637F2272D240100CE7935 /* Restoran.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Restoran.swift; sourceTree = "<group>"; };
 		96D5127C272BCE6600FF4E96 /* Paris Trip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Paris Trip.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D5127F272BCE6600FF4E96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96D51281272BCE6600FF4E96 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +62,13 @@
 		96D512A0272BCE6C00FF4E96 /* Paris TripUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Paris TripUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D512A4272BCE6C00FF4E96 /* Paris_TripUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paris_TripUITests.swift; sourceTree = "<group>"; };
 		96D512A6272BCE6C00FF4E96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96D512B4272BD11100FF4E96 /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
+		96D512C4272BF86500FF4E96 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		96D512C6272BF8B900FF4E96 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		96D512C7272BF8BA00FF4E96 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		96D512C8272BF91300FF4E96 /* uz */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uz; path = uz.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		96D512C9272BF91400FF4E96 /* uz */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uz; path = uz.lproj/Localizable.strings; sourceTree = "<group>"; };
+		96D512CA272BF9CE00FF4E96 /* LocalizableModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizableModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +96,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96B637ED272D236D00CE7935 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				96D51283272BCE6600FF4E96 /* ContentView.swift */,
+				96B637F2272D240100CE7935 /* Restoran.swift */,
+				96B637F0272D23E800CE7935 /* Places.swift */,
+				96B637EE272D23BD00CE7935 /* Hotel.swift */,
+			);
+			path = Page;
+			sourceTree = "<group>";
+		};
 		96D51273272BCE6600FF4E96 = {
 			isa = PBXGroup;
 			children = (
@@ -101,14 +130,14 @@
 		96D5127E272BCE6600FF4E96 /* Paris Trip */ = {
 			isa = PBXGroup;
 			children = (
+				96B637ED272D236D00CE7935 /* Page */,
+				96D512B3272BD0F500FF4E96 /* Model */,
+				96D512B2272BCF5800FF4E96 /* AppUtils */,
 				96D5127F272BCE6600FF4E96 /* AppDelegate.swift */,
 				96D51281272BCE6600FF4E96 /* SceneDelegate.swift */,
-				96D51283272BCE6600FF4E96 /* ContentView.swift */,
-				96D51288272BCE6B00FF4E96 /* Assets.xcassets */,
-				96D5128D272BCE6B00FF4E96 /* LaunchScreen.storyboard */,
 				96D51290272BCE6B00FF4E96 /* Info.plist */,
-				96D51285272BCE6600FF4E96 /* Paris_Trip.xcdatamodeld */,
 				96D5128A272BCE6B00FF4E96 /* Preview Content */,
+				96D512C5272BF86500FF4E96 /* Localizable.strings */,
 			);
 			path = "Paris Trip";
 			sourceTree = "<group>";
@@ -137,6 +166,26 @@
 				96D512A6272BCE6C00FF4E96 /* Info.plist */,
 			);
 			path = "Paris TripUITests";
+			sourceTree = "<group>";
+		};
+		96D512B2272BCF5800FF4E96 /* AppUtils */ = {
+			isa = PBXGroup;
+			children = (
+				96D51288272BCE6B00FF4E96 /* Assets.xcassets */,
+				96D51285272BCE6600FF4E96 /* Paris_Trip.xcdatamodeld */,
+				96D5128D272BCE6B00FF4E96 /* LaunchScreen.storyboard */,
+			);
+			path = AppUtils;
+			sourceTree = "<group>";
+		};
+		96D512B3272BD0F500FF4E96 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				96D512B4272BD11100FF4E96 /* Frame.swift */,
+				96D512CA272BF9CE00FF4E96 /* LocalizableModel.swift */,
+				96B637EB272D1A4D00CE7935 /* Post1.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -224,6 +273,8 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
+				uz,
 			);
 			mainGroup = 96D51273272BCE6600FF4E96;
 			productRefGroup = 96D5127D272BCE6600FF4E96 /* Products */;
@@ -243,6 +294,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96D5128F272BCE6B00FF4E96 /* LaunchScreen.storyboard in Resources */,
+				96D512C3272BF86500FF4E96 /* Localizable.strings in Resources */,
 				96D5128C272BCE6B00FF4E96 /* Preview Assets.xcassets in Resources */,
 				96D51289272BCE6B00FF4E96 /* Assets.xcassets in Resources */,
 			);
@@ -271,8 +323,14 @@
 			files = (
 				96D51287272BCE6600FF4E96 /* Paris_Trip.xcdatamodeld in Sources */,
 				96D51280272BCE6600FF4E96 /* AppDelegate.swift in Sources */,
+				96B637EF272D23BD00CE7935 /* Hotel.swift in Sources */,
 				96D51282272BCE6600FF4E96 /* SceneDelegate.swift in Sources */,
 				96D51284272BCE6600FF4E96 /* ContentView.swift in Sources */,
+				96D512B5272BD11100FF4E96 /* Frame.swift in Sources */,
+				96D512CB272BF9CE00FF4E96 /* LocalizableModel.swift in Sources */,
+				96B637EC272D1A4D00CE7935 /* Post1.swift in Sources */,
+				96B637F1272D23E800CE7935 /* Places.swift in Sources */,
+				96B637F3272D240100CE7935 /* Restoran.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,8 +370,20 @@
 			isa = PBXVariantGroup;
 			children = (
 				96D5128E272BCE6B00FF4E96 /* Base */,
+				96D512C6272BF8B900FF4E96 /* ru */,
+				96D512C8272BF91300FF4E96 /* uz */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		96D512C5272BF86500FF4E96 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96D512C4272BF86500FF4E96 /* en */,
+				96D512C7272BF8BA00FF4E96 /* ru */,
+				96D512C9272BF91400FF4E96 /* uz */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -323,6 +393,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -384,6 +455,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";

@@ -1,0 +1,181 @@
+/* 
+  Localizable.strings
+  Paris Trip
+
+  Created by Apple user on 29/10/21.
+  
+*/
+
+"hush_kelibsiz" = "Hush_kelibsiz";
+"mexmonxona" = "Mexmonxona";
+"restaurant" = "Restaurant";
+"gozal_joylar" = "Go'zal joylar";
+
+
+"manzil00" = "Manzil";
+
+"manzil1" = "3 Rue Pétion, 11-arrondissement: Bastiliya, Parij";
+
+"manzil2" = "Asosiy diqqatga sazovor joylar";
+
+"manzil3" = "Notr-Dam sobori 2,4 km";
+
+"manzil4" = "Luvr 3,2 km";
+
+"manzil5" = "Yelisey chempionlari 5,5 km";
+
+"manzil6" = "Eyfel minorasi 6,4 km";
+
+"manzil7" = "Zafar arqasi 6,6 km";
+
+
+
+"xizmat00" = "Xizmatlar";
+
+"avto" = "Avto turargox";
+"ovqat" = "Ovqatlanish joyi";
+"wifi" = "Bepul Wifi";
+"sport" = "Sport zali";
+"xafsizlik" = "Yuqori xafsizlik";
+
+
+"Eyfel" = "Eyfel minorasi (la Tour Eiffel) Frantsiyadagi tashrif buyuradigan joylar ro'yxatida yuqori o'rinni egallaydi va dunyodagi eng ko'p tashrif buyuriladigan turistik diqqatga sazovor joy hisoblanadi. Tuzilma birinchi marta ochilganda uni dahshatli deb e'tibordan chetda qoldirganiga ishonish qiyin. Ajoyib minora Aleksandr-Gyustav Eyfel tomonidan Frantsiya inqilobining 100 yilligiga bag'ishlangan 1889 yilgi Parij ko'rgazmasi uchun mo'ljallangan .
+
+Minora 2,5 million perchin bilan birlashtirilgan 18 000 ta mustahkam temir qismlardan (og'irligi 10 000 tonnadan ortiq) iborat. Ushbu innovatsion inshoot hozirda mohir me'moriy jasorat hisoblanadi va Parijdagi eng ramziy ko'rinish hisoblanadi. Balandligi 324 metrga yetgan minora Empire State Building barpo etilgunga qadar dunyodagi eng baland bino bo‘lgan.
+
+Birinchi marta tashrif buyuruvchilar uchun Eyfel minorasini ko'rish unutilmas taassurotdir. Esplanadaga (Axborot stoli joylashgan) etib kelganida, 10 100 tonnalik yodgorlikni qo'llab-quvvatlovchi to'rtta ulkan ustunni ko'rish ko'pchilikni hayratga soladi.
+
+Birinchi darajaga (57 metr balandlikda) erishish uchun liftga chiqish yoki 360 zinapoyaga chiqish kerak. Bu qavatda jamoat hojatxonalari, sovg'alar do'koni, kafeterya, brasserie restorani va manzaralarga qoyil qolish uchun ochiq maydon mavjud.
+
+Eyfel minorasining ikkinchi darajasiga (115 metr balandlikda) birinchi qavatdan yana 344 pog'onali zinapoya yoki lift orqali chiqish mumkin. Bu daraja birinchi darajaga o'xshash qulayliklarga ega, faqat tomosha maydonchalari ko'proq Parij yodgorliklarini (masalan, Notr-Dam, Luvr va Sakre-Keur Bazilikasi) ko'rishni taklif qiladi va bu darajada yaxshi ovqatlanish joyi mavjud. restoran.
+
+Mishel yulduzli Le Jules Verne gastronomik restorani ajoyib muhitda zamonaviy frantsuz oshxonasining nafis taomlarini taqdim etadi. Restoranning ovqat xonalarida Eyfel minorasining strukturaviy nurlarining cho'qqisini ta'minlovchi va Parij shahar manzaralariga qaraydigan keng derazalar mavjud.
+
+276 metrlik bosh aylanadigan balandlikda eng yuqori darajaga chiqish uchun ikkinchi darajadan hayajonli liftda yurish kerak. Yuqori darajani ziyorat qilish Parijda qilinadigan eng hayajonli narsalardan biridir, ammo yurak zaiflar uchun emas.
+
+Sayyohlar Parijning eng ramziy yodgorligini suratga olish uchun bir oz vaqt sarflashni xohlashadi. Yo From Jardins du Trocadéro (Sein daryosi bo'ylab qisqa yurish) yoki Parc du Champ ham Mars (minora oldida maysa), rasm-mukammal foto-ops uchun faqat to'g'ri masofa bor.
+
+Manzil: Tour Eiffel, Champ de Mars, 75007 Parij (Metro: Bir-Hakeim, Trocadéro, Iéna yoki Passy stantsiyasi)";
+
+
+
+
+"Luvr" = "Bir vaqtlar Frantsiya qirollarining uyi bo'lgan hashamatli saroy, Luvr Parijning eng yaxshi muzeylari ichida eng muhimi hisoblanadi . Muzeyga tashrif buyuruvchilar saroy hovlisida joylashgan shisha piramidada (1917 yilda Ieoh Ming Pei tomonidan ishlab chiqilgan) kirishadi. Luvrda 35 000 ta san'at asari (ko'pchilik durdona deb hisoblanadigan) - antikvarlardan tortib 15-19-asrlardagi Evropa rasmlarigacha namoyish etiladi.
+
+Bularning barchasini bir tashrifda ko‘rishning iloji yo‘q, biroq sayyohlar diqqatini klassik haykaltaroshlik, Italiya Uyg‘onish davri san’ati yoki 17-asr frantsuz rasmlari kabi ma’lum bir galereyaga qaratishlari yoki Luvr muzeyining diqqatga sazovor joylarini ko‘rish uchun o‘z-o‘zidan ekskursiya qilishlari mumkin.
+
+Eng mashhur asar Leonardo da Vinchi tomonidan 1503-1505 yillarda chizilgan Mona Liza yoki La Giokonda (yoki frantsuzcha La Jokonda ) hisoblanadi. Ko'pgina sayyohlar muzeyni shunchaki bir ko'zdan kechirish uchun aylanib o'tishadi, ammo vaqt cheklangan bo'lsa ham, ko'rish kerak bo'lgan boshqa ko'plab san'at asarlari mavjud.
+
+Luvrning diqqatga sazovor joylari orasida qadimgi Venera de Milo haykali bor; ellinistik davrdagi Samotrakiyaning monumental g'alabasi ; Veronesening Kanadagi ulkan to'y marosimi (1563); Botticelli yosh xonim Venera va Graces freskasi; va Ejen Delakruaning 1830-yil iyul oyidagi Parij qoʻzgʻoloni tasvirlangan “Xalqga yetaklovchi Ozodlik” (1831).
+
+Luvrga tashrif buyurishdan maksimal darajada foydalanish uchun sayyohlar ekskursiyaga qo'shilishlari kerak. Luvr muzeyi Skip Line Tour to'g'ri, shu jumladan, muzey eng mashhur san'at, ishtirokchilarni oladi Venera ham milo va Mona Lisa . Ushbu uch soatlik sayohatda gid (u san'atshunos) durdona asarlar haqida chuqur sharh beradi.
+
+Luvr bir tomondan Parijdagi eng go'zal parklardan biri bo'lgan Jardin des Tuileries bilan o'ralgan . Mashhur landshaft arxitektori Andre Le Notr 17-asrning rasmiy frantsuz uslubida, mukammal ishlov berilgan daraxtlar, haykallar va yo'llar bilan Tuileries bog'larini yaratdi. Parkdagi skameykalar va ochiq o'rindiqlarga ega kafe-restoranlar tashrif buyuruvchilarni dam olishga va manzaradan zavq olishga taklif qiladi.
+
+Manzil: Luvr muzeyi, Rue de Rivoli, 75001 Parij (Metro: Palais-Royal Musée du Luvr yoki Piramidalar stantsiyasi)";
+
+
+
+
+"Notr-Dam" = "Notre-Dame Parijning markazida, Lotin kvartalining yonidagi Ile-de-la-Citeda joylashgan . Sena daryosidagi orol, Île-de-la-Cite Parijning tarixiy va geografik markazidir. Ushbu kichik er uchastkasida rimliklar Gallo-Rim Lutetsiya shahrini qurdilar va 6-asrdan 14-asrgacha bu erda Frantsiya qirollari istiqomat qilishdi.
+
+Cathédrale Notre-Dame de Paris shoh Louis IX (Sankt-Louis) va Bishop Moris de Sully tomonidan 1163 yilda tashkil etilgan va qurilish 150 dan ortiq yil o'tdi. Sobor birinchi marta erta gotika uslubida yaratilgan bo'lsa, keyingi qo'shimchalar (g'arbiy jabha va nef) yuqori gotika uslubiga o'tishni ko'rsatadi.
+
+Bu ta'sirchan o'rta asr yodgorligi gotika me'morchiligining g'alabasidir. Sayyohlar fasadning bezakli dizayni, haykaltaroshlik va gargoyllarning ko'pligi bilan darhol hayratda qoladilar , shu bilan birga ishlab chiqilgan uchuvchi tayanchlar ulkan binoning strukturaviy yaxlitligini ta'minlaydi.
+
+Mehmonlar g'arbiy jabhada batafsil tasvirlangan eshik ustidagi Shohlar galereyasiga diqqat bilan qarashlari kerak . 28 ta murakkab o'yilgan figuralardan iborat qatorlar Childebert I (511-588) dan Filipp Avgustgacha bo'lgan frantsuz qirollarining tasvirlarini ochib beradi. Bu raqamlar inqilob davrida boshlarini yo'qotdilar. (Boshlar hozir Musée de Cluny'da namoyish etilmoqda.)
+
+Dekorativ eshikka qoyil qolganingizdan so'ng, bu ulkan gumbazli makonning ulug'vorligini qabul qilish uchun ma'badga kiring. Muqaddas maskan deyarli cheksiz ko'rinadi va miltillovchi shamlar nuri bilan tashrif buyuruvchilarni o'ziga jalb qiladi.
+
+Ichki makon ajoyib vitrajlar bilan yoritilgan . Eng diqqatga sazovor oyna - shimoliy transeptdagi atirgul oynasi . Ushbu ajoyib san'at asarida Bokira qiz atrofida joylashgan 80 ta Eski Ahd sahnalari mavjud.
+
+Eslatma: 2019 yil aprel oyida sodir bo'lgan katta yong'in soborga katta zarar etkazdi: O'rta asr tomi va 19-asrga oid shpil qulab tushdi. Hozircha yetkazilgan zarar miqdori aniqlanmoqda. Bu vaqtda ichki makon hamma uchun yopiq.
+
+Strukturani barqarorlashtirish va ta'mirlash loyihasi amalga oshirilmoqda. Shahar soborni qayta qurish va uni avvalgi holatiga qaytarishni rejalashtirmoqda. Qayta ochilish 2024 yilda bo'lib o'tishi kutilmoqda.
+
+Qayta ochilgunga qadar, Notr-Dam de Parij jamoati 1-okrugdagi Eglise Saint-Germain l'Oserrois (2-Plaj du Luvr) da Massani nishonlaydi.
+
+Manzil: Notre-Dam de Parij sobori, 6 Parvis Notre-Dame - Place Jan-Paul II, 75004 Parij (Metro: Cité yoki Saint-Michel Notre-Dame stantsiyasi)";
+
+
+
+"Champs" = "Parijdagi eng monumental bulvar 17-asrgacha, André Le Notr tomonidan obodonlashtirilgunga qadar botqoqli dala bo'lgan. Bir asr o'tgach, Parij shaharsozlikchisi Baron Haussman bulvarning nafis binolarini loyihalashtirdi. Champs-Elysées ikki qismga bo'lingan, Rond-Point des Champs-Elysées uning kesishishi sifatida.
+
+Champs-Elysées-ning Konkord maydoni bilan chegaradosh pastki qismida keng park, Jardin des Champs-Elysées va Petit Palais tasviriy san'at muzeyi mavjud. Arc de Triomphegacha cho'zilgan yuqori qismi hashamatli do'konlar, mehmonxonalar, restoranlar, kafelar, kinoteatrlar va teatrlar bilan qoplangan. Bu gavjum hudud ko'plab sayyohlarni o'ziga tortadi va parijliklar uchun yig'ilish joyidir.
+
+Champs-Elysées o'zining nufuzli muassasalari bilan mashhur, masalan, Maison Ladurée (75 Avenue des Champs-Elysées), 18-asr choy saloni va mazali pishiriqlari bilan mashhur bo'lgan qandolat do'koni (ularning ixtisosligi makaron) va yuqori darajadagi dizaynerlar. Tiffany & Co. (62 Avenue des Champs-Elysées), Louis-Vuitton (101 Avenue des Champs-Elysées) va Cartier (154 Avenue des Champs-Elysées) kabi butiklar .
+
+Afsonaviy brasserie du luxe restorani va Le Fouquet's (99 Avenue des Champs-Élysées) va ajoyib gastronomik restoran L'Atelier Étoile de Joël Robuchon (133 Avenue des Champs-Elysées) taomlari uchun eng yaxshi tanlovdir. bitta Mishel yulduzi.
+
+Champs-Elysées nafis qiyofaga ega bo'lsa-da, Disney o'yinchoqlar do'koni, H&M kiyim do'koni, Starbucks, Quick, Burger King va McDonald's kabi byudjetli sayyohlar va talabalarga xizmat ko'rsatadigan ko'plab arzon joylar mavjud.
+
+Manzil: Champs-Elysées, 75008 Parij (Metro: Champs-Elysées Clemenceau stantsiyasi Jardin des Champs-Elysées va Petit Palaisga tashrif buyurish uchun, Franklin d. Laduree uchun Ruzvelt stantsiyasi, asosiy savdo maydoni uchun Jorj V stantsiyasi).";
+
+
+"Orsay" = "Musée d'Orsay 19 va 20-asr san'atining ajoyib to'plamini (1848 yildan 1914 yilgacha yaratilgan) o'zgartirilgan Gare d'Orsada namoyish etadi. Ushbu Belle Epoque temir yo'l stantsiyasi 1900 yilgi Umumjahon ko'rgazmasi uchun qurilgan.
+
+Muzeyning keng galereyalarida dunyoning eng qadrli rasmlari namoyish etilmoqda. Orsay muzeyi Parijdagi impressionistlar san'ati tarixi haqida umumiy ma'lumot olish uchun tashrif buyurish uchun eng yaxshi joylardan biridir - Monening yumshoq cho'tkasi zarbalaridan tortib Gogenning yovvoyi, rang-barang sahnalarigacha.
+
+To'plam impressionizmning barcha ustalarining asarlarini aks ettiradi. Rassomlar orasida klassik impressionist ustalar Edgar Degas , Eduard Manet, Klod Mone va Per-Avgust Renuardan Per Bonnard, Pol Sezan va Vinsent van Gog kabi post-impressionist rassomlargacha ; Pointillistlar (Jorj Seurat, Pol Signak); va Toulouse Lautrec kabi Bohemiyalik rassomlar .
+
+Muzeyning eng mashhur asarlaridan ba'zilari: Klod Monening  Magpie,  Gare Saint-Lazare,  Ko'knori maydoni  va  O'tloqdagi tushlik ; Vinsent van Gogning avtoportreti va  Yulduzli tun  va Montmartrdagi bayramona ziyofat sahnasini aks ettiruvchi Moulin de la Galettedagi Renoirning raqsi .
+
+Muzeyda, shuningdek, kitob do'koni va sovg'alar do'koni , ikkita kafe va yaxshi ovqatlanadigan restoran mavjud , bu esa pul sarflashga arziydi. Ilgari Hôtel d'Orsay (asl Gare d'Orsadagi hashamatli mehmonxona) va Tarixiy yodgorlik ro'yxatiga kiritilgan muzey restoranida zarhallangan shiftlar va yorqin qandillar mavjud.
+
+Manzil: Musée d'Orsay, Rue de la Legion d'Honneur 1, 75007 Parij (Metro: Musée d'Orsa, Milliy Assambleya yoki Solferino stantsiyasi)";
+
+
+
+"Palais" = "1860 yilda Napoleon III tomonidan topshirilgan Pale Garnier opera teatri Charlz Garnier tomonidan barokko uslubida yaratilgan. Garnier 1862 yildan 1875 yilgacha o'n yildan ortiq vaqt davomida ushbu loyiha ustida tinimsiz ishladi.
+
+Fasadda klassik ustunlar va allegorik shaxslarni ifodalovchi sakkizta haykal mavjud: she'r, musiqa, idil, qiroat, qo'shiq, drama va raqs. Lodjiyada bastakorlarning, jumladan Rossini, Betxoven va Motsartning byustlari tasvirlangan, gumbazning tepasida esa she'riyat va musiqaning allegorik figuralari aks etgan Apollon haykali o'rnatilgan.
+
+Binoga kirgach, tashrif buyuruvchilar 11 000 kvadrat metrlik dabdabali ichki makondan hayratda qoladilar. Binoning ko'p qismi ajoyib Grand Escalier , marmar kirish zinapoyasi, bezakli zarhal lampalar bilan bezatilgan katta foyega bag'ishlangan .
+
+Auditoriya samimiy his-tuyg'ularga ega, garchi u 2105 kishiga mo'ljallangan qizil rangli kadife o'rindiqlarini sig'dira oladi. Oltinlangan balkonlar, ulkan billur qandil va Chagall shiftidagi rasm teatrning ajoyibligini qo'shib, madaniy tomoshalar uchun ajoyib dramatik fon yaratadi.
+
+Parijda tunda qiladigan narsalarni qidirayotgan mehmonlar uchun Opéra Garnier nufuzli tadbirlar kalendariga mezbonlik qiladi . Operadan tashqari , balet spektakllari, klassik musiqa kontsertlari va gala-tadbirlari mavjud . Spektaklda qatnashish - bu binoning ichki qismini ko'rish va jozibali oqshomdan zavqlanishning ajoyib usuli. Yana bir variant - tashrif buyurish (kirish chiptasi kerak) yoki kunduzi ekskursiya qilish.
+
+Bibliotèchque-Musée de l'Opera binosi ichida joylashgan (Opera uyi kutubxona muzeyi) opera san'atiga bag'ishlangan uch arxiv asrlar, shuningdek eksponatlarni o'z ichiga oladi. Muzeyning doimiy kolleksiyasida kiyim-kechak va dekoratsiya chizmalari, masshtabli maketlar va binoning rasmlari mavjud.
+
+Opera teatrida operaga oid kitoblar va suvenirlar sotiladigan butik ham mavjud . Ajoyib taomlarni biluvchilar CoCo ni kashf qilishdan mamnun bo'lishadi , Opera teatri (kirish Jak-Ruche maydonida joylashgan) bo'lib, u mavsumiy ingredientlardan tayyorlangan nafis zamonaviy taomlarni taqdim etadi.
+
+Manzil: Palais Garnier, Place de l'Opéra, 8 Rue Scribe (Auberda) 75009 Parij (Metro: Opéra, Chaussée d'Antin-La Fayette yoki Havre-Caumartin stantsiyasi)";
+
+
+
+"Konkord" = "Qirol Lui XV me'mori tomonidan 1755-1775 yillarda yaratilgan bu ta'sirchan sakkizburchak kvadrat 18-asr Parijining markazida joylashgan. O'zining ulug'vor o'lchamlari bilan Konkord maydoni shaharning eng jozibali maydonlaridan biridir. Bu bir qancha muhim tarixiy voqealarga, jumladan qirol Lyudovik XVIning qatl etilishiga sahna bo‘lgan va Napoleonning zafarli yo‘lining bir qismi edi.
+
+Maydon zafarli yo'lning zafarli yo'lning shov-shuvli manzaralarini taqdim etadi, chunki Arc de Triomphe va Défense, va Luvr , shuningdek Madlen va Pale-Bourbon saroylari. Markazda Misr vitse- qiroli Charlz Xga sovg'a qilingan Misr obeliski bor . Yozda bu yerda aylanma g'ildirak bor.
+
+Plas de la Concorde - bu yuqori tezlikda aylanib yuradigan, og'ir transport bilan band chorraha. Frantsuz haydovchilari har doim ham piyodalarga e'tibor berishmaydi, shuning uchun sayyohlar yo'ldan chiqib ketishlariga ishonch hosil qilishlari kerak!
+
+Konkord maydoniga kelish uchun Luvrdan Jardin du Tuileries yoki Rue du Rivoli bo'ylab piyoda yuring yoki Sena daryosi bo'ylab Quayga ergashing. Shu bilan bir qatorda, metro orqali Konkord stantsiyasiga boring.";
+
+
+"Arc" = "Arc de Triomphe inqilob va Birinchi imperiya (Napoleon urushlari) davridagi frantsuz qo'shinlarida jang qilgan askarlarga bag'ishlangan. Napoleon bu qudratli inshootni qurishni 1806 yilda topshirgan, ammo 1836 yilda uning qurib bitkazilishini ko'ra olmadi.
+
+Rimdagi Titus archasidan ilhomlangan arxitektor Jan Fransua Chalgrin tomonidan ishlab chiqilgan 50 metr balandlikdagi ulkan archada jo‘nash, g‘alabalar va ulug‘vor qaytishni aks ettiruvchi real o‘lchamdagidan kattaroq figurali barelyeflar mavjud. frantsuz qo'shinlari.
+
+: Ayniqsa, diqqatga sazovordir, Champs-Elysées-qaragan tomonida Fransua Rude tomonidan barelyef bo'lgan 1792 yil Ko'ngilli ketganidan ham sifatida tanilgan, The Marseillaise Ozodlik qanotli ruhida boshchiligidagi qo'shinlarini tasvirlangan. Arkning ichki yuzasida 660 dan ortiq general va yuzdan ortiq janglarning ismlari tasvirlangan.
+
+Yodgorlik tepasidan tomosha platformasi Etoile maydonidan tarqaladigan 12 ta xiyobonning, jumladan Yeliseydan Konkord maydoniga va Luvrga boradigan yo‘lning panoramik ko‘rinishini taqdim etadi. La Défense, Montmartre va Eyfel minorasigacha bo'lgan barcha yo'llarni ko'rish mumkin.
+
+Arc de Triomphe etagida Noma'lum askar qabri joylashgan bo'lib, u 1921 yilda anonim askarga yodgorlik sifatida bag'ishlangan (Birinchi jahon urushi paytida o'z vatanlari uchun hech qachon tan olinmagan holda mardonavor qurbon bo'lgan boshqa ko'plab noma'lum askarlarning ramzi).
+
+Zikr Flame Noyabr 11, 1923 haqida Noma'lum askar qabriga va sana hech so'nib qilinmagan, chunki olovga berilgan. Har kuni kechqurun soat 18:30 da qabrda yodgorlik alangasini yoqish marosimi o'tkaziladi.
+
+Bugungi kunda Arc de Triomphe'da milliy bayramlarni nishonlash tadbirlari, jumladan, 11 noyabr (1918 yil sulhning yilligi) urushda halok bo'lganlarni xotirlash marosimi; May 8 Anjuman de la Victoire (G'alaba kuni) Ikkinchi jahon urushi oxiri va natsistlar istilosiga ozod nishonlash; shuningdek, 14 iyul (Bastiliya kuni) uchun bayramlar .
+
+Yodgorlik xodimlari har kuni soat 10:30 da frantsuz tilida ekskursiyalarni tashkil qiladi; bu turlar kirish chiptasi narxiga kiritilgan. Saytda bir nechta tillarda hujjatlar va multimedia taqdimotlari ham mavjud.
+
+Turistlar Arc de Triomphedagi sovg'alar do'koni va kitob do'konini qadrlashadi. Harakati cheklangan mehmonlar va yosh bolalar uchun tomosha maydonchasiga chiqish uchun lift mavjud. Aks holda, tashrif buyuruvchilar zinapoyadan chiqishlari kerak.
+
+Manzil: Arc de Triomphe, Place Charlz de Goll, 75008 Parij (Metro: Charlz de Goll-Etoile, Kleber yoki Argentina stantsiyasi)";
+
+
+"Sena" = "Sena daryosi bo'ylab qayiqda sayohat qilish Parijning jozibali manzarasini singdirishning eng yaxshi usullaridan biridir. Sen daryosi kruizlari sayyohlarga diqqatga sazovor joylarni boshqa nuqtai nazardan ko'rish imkonini beradi. Sen daryosi ko'prigi, Eyfel minorasi, Notr-Dam sobori va Luvr muzeyi daryo qayig'i nuqtai nazaridan ajoyib ko'rinadi.
+
+Kunduzgi kruiz sayyohlarga quyosh nuri bilan yoritilgan obidalar ulug'vorligini qadrlash imkonini bersa-da, eng romantik tajriba kechki sayohatdir. Quyosh botganidan keyin shaharning diqqatga sazovor joylari yoritiladi, bu alohida effekt yaratadi va shahar qandaydir tarzda sehrliroq ko'rinadi.
+
+Kechki ovqatni o'z ichiga olgan kruiz uchun Bateaux Parisiens Seine River Gourmet Dinner & Sightseeing Cruise ni sinab ko'ring . Bu hashamatli daryo qayiq kruizi Port de la Bourdonnaisda (Eyfel minorasi yaqinida) jo'naydi va mehmonlarga uch xil gurme taom beriladi.";
